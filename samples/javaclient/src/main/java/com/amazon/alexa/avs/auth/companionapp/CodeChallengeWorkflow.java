@@ -40,7 +40,6 @@ public class CodeChallengeWorkflow {
 
     /**
      * CodeChallenge parameter generation logic goes here. We are implementing version 10 of the specification.
-     * Design doc: https://w.amazon.com/index.php/IdentityServices/LWA/Projects/LWA_3P_SSO_Launch
      * SPOP Protocol specification version 10: https://tools.ietf.org/html/draft-ietf-oauth-spop-02
      */
     public void generateProofKeyParameters() {
